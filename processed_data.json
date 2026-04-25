@@ -1,0 +1,8018 @@
+[
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ตาแห้ง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ปวดกระดูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "คันจมูกจามบ่อย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 18,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "อาเจียน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อ",
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เสมหะไหลลงคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "คันจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "อาเจียน",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "หายใจหอบเหนื่อย",
+      "หายใจเสียงวี๊ด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "ถ่ายเป็นเลือด",
+      "ถ่ายเป็นเลือดสด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "เสียงแหบ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ปวดหัว",
+      "ชา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 65,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 67,
+    "symptoms": [
+      "diarrhea"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ปากบวม",
+      "แผลในช่องปาก",
+      "แผลในปาก",
+      "ปากบวม หน้าบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ตาบวม"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ท้องผูก",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ปวดบั้นเอว",
+      "ปวดหลัง",
+      "ปวดเอว"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหลเสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลคัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อ",
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 68,
+    "symptoms": [
+      "diarrhea",
+      "stomachache",
+      "abdominal pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "อาเจียน",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 1,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหลเสมหะ",
+      "เจ็บคอ",
+      "กลืนเจ็บ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "ไอกลางคืนเสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "symptoms": [
+      "straining to urinate"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "symptoms": [
+      "อาเจียนแสบท้อง",
+      "อาเจียน",
+      "คลื่นไส้",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ถ่ายเป็นเลือด",
+      "ถ่ายเป็นเลือดสด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อ",
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "ผื่น",
+      "ไอผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 75,
+    "symptoms": [
+      "ปวดหัวไหล่",
+      "ปวดเอว",
+      "ปวดบั้นเอว",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 64,
+    "symptoms": [
+      "หายใจไม่สะดวก",
+      "จมูกตัน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 71,
+    "symptoms": [
+      "ท้องผูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 57,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 57,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 77,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "กลืนติด กลืนลำบาก",
+      "กลืนลำบาก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "back pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "แน่นจมูก",
+      "ปวดจมูก",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ท้องอืด",
+      "ก้อนบริเวณท้องน้อยปวดท้อง",
+      "อาเจียน",
+      "คลื่นไส้",
+      "แสบท้อง",
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "คัดจมูกไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "น้ำมูกไหลเสมหะ",
+      "น้ำมูกไหล",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "cough",
+      "labored breathing",
+      "night coughfever",
+      "phlegm",
+      "nasal congestion",
+      "wheezing sound",
+      "wheezing",
+      "sore throat",
+      "stuffy nose"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "dizzy"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "cough",
+      "coughlightheaded",
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 73,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "cough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ตกขาวผิดปกติ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "อาเจียน",
+      "มึนศีรษะอาเจียน",
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "symptoms": [
+      "น้ำมูกไหลเสมหะ",
+      "น้ำมูกไหล",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "ไอไอกลางคืน",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 22,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลไอ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 64,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ปวดน่อง",
+      "ปวดขา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "คัดจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "แน่นจมูก",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "หน้ามืด",
+      "เวียนศีรษะ บ้านหมุน",
+      "เวียนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "ประวัติความดันสูง",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เป็นไข้",
+      "ปวดหัว",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "กระแทก",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "axillary mass",
+      "armpit lump",
+      "acne",
+      "skin lumpacne"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 68,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 14,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ตามองเห็นไม่ชัด",
+      "มองเห็นจุดดำ เงาดำ",
+      "ตาพร่ามัว",
+      "จุดดำลอยในตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ผื่น",
+      "ผิวแห้ง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "symptoms": [
+      "ปวดตา",
+      "ปวดลูกตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เรอเปรี้ยว",
+      "จุกแน่นท้อง",
+      "ปวดท้อง",
+      "เรอเปรี้ยวปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ปวดท้องน้อย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "shortness of breath",
+      "labored breathing"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 55,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 84,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "yellowish skin",
+      "jaundice"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "เจ็บคอไข้",
+      "เจ็บคอ",
+      "น้ำมูกไหล",
+      "เป็นไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "symptoms": [
+      "ปวดหู",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "symptoms": [
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "eye mucus, eye discharge",
+      "eye discharge"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดแขน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ตาแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "เจ็บคอ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "itch",
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "จามบ่อย",
+      "ไอคัดจมูก",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "ear discharge/drainage",
+      "ear dischargeear pain",
+      "hearing loss"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "เสียงแหบ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 83,
+    "symptoms": [
+      "เสมหะไหลลงคอ",
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "symptoms": [
+      "แผล",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "fever",
+      "headache"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 55,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 62,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เจ็บคอ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 64,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ถ่ายเป็นเลือด",
+      "ผื่น",
+      "ถ่ายเป็นเลือดสด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ตาแดง",
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 78,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 90,
+    "symptoms": [
+      "ฝ้าขาวที่ลิ้น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ท้องอืด",
+      "ประวัติโรคกระเพาะ",
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "เคืองตา",
+      "ปวดตา",
+      "ปวดตาเคืองตา",
+      "ตาเหลือง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะคัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ปวดหัวไหล่",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลคัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 81,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "อาเจียน",
+      "คลื่นไส้อาเจียน",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "คัดจมูกเสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "ปวดแขน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ฝ้าขาวที่ลิ้น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "เคืองตา",
+      "ขี้ตาเยอะ",
+      "คันตา",
+      "ขี้ตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 57,
+    "symptoms": [
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "ก้อนที่หลังหู",
+      "ก้อนบริเวณหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 66,
+    "symptoms": [
+      "ปวดกระดูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ไอไอกลางคืน",
+      "เสมหะ",
+      "เจ็บคอ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เสมหะ",
+      "เสมหะคัดจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 9,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "เสียงแหบ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "ก้อนที่ขา",
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "คลื่นไส้",
+      "ปวดท้อง",
+      "อาเจียนคลื่นไส้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 17,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "ตากระตุก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "คัน",
+      "แผลผื่น",
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "cough",
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "ปวดเอว",
+      "ปวดบั้นเอว",
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 60,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ฟกช้ำ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ฟกช้ำ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "คันจมูกน้ำมูกไหล",
+      "น้ำมูกไหล",
+      "จามบ่อย",
+      "จาม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 22,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "itch",
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "ปวดกระดูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "itch"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "cough",
+      "labored breathing",
+      "shortness of breath",
+      "sore throat",
+      "breathless on lyingstuffy nose"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เรอเปรี้ยว",
+      "จุกแสบลำคอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 62,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดมือ",
+      "ปวดนิ้วมือ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 60,
+    "symptoms": [
+      "ตาพร่ามัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ปวดเท้า",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "ตาบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ชา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "แผล",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "ปวดคอ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "fever",
+      "vomit",
+      "abdominal pain",
+      "vomiting"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดบ่า",
+      "ปวดไหล่",
+      "ปวดข้อ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ปวดตา",
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "dry skin",
+      "itch"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "แผล",
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "บวม"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 67,
+    "symptoms": [
+      "ปวดกระดูก",
+      "ปวดนิ้วมือ",
+      "ปวดข้อ",
+      "ปวดมือ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "อาเจียน",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ผื่น",
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 61,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 62,
+    "symptoms": [
+      "ear pain",
+      "ear discharge/drainage",
+      "ear discharge"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 64,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 55,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "ปวดคอ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "แผลในปาก",
+      "แผลริมฝีปาก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "joint pain",
+      "foot pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 89,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "ปัสสาวะเป็นตะกอน",
+      "ปัสสาวะขุ่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "dizzy",
+      "unsteady, loss of balance"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 58,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "symptoms": [
+      "ปวดเท้า",
+      "ปวดขา",
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย",
+      "ท้องเสียปวดท้องน้อย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "ไอ",
+      "เสมหะไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 62,
+    "symptoms": [
+      "การได้ยินลดลง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "axillary mass",
+      "armpit lump"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "yellowish skin",
+      "jaundice",
+      "itch"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "น้ำมูกไหลเสมหะ",
+      "ไอ",
+      "น้ำมูกไหล",
+      "จามบ่อย",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "แผลในปาก",
+      "เจ็บคอ",
+      "แผลในช่องปาก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "animal bite",
+      "animal related injury"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "cough",
+      "fever",
+      "headachecough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "เดินเซ ทรงตัวไม่ได้",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "จมูกตัน",
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "อาเจียน",
+      "คลื่นไส้อาเจียน",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 57,
+    "symptoms": [
+      "เสียงดังในหู",
+      "เสียงดังรบกวนในหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "cough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ผื่น",
+      "ผิวแห้ง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 50,
+    "symptoms": [
+      "ปัสสาวะบ่อย ถี่",
+      "ปัสสาวะบ่อย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ปวดแขน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ผมร่วง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "เสมหะคันจมูก",
+      "ไอ",
+      "เสมหะ",
+      "หายใจไม่สะดวก",
+      "หายใจเสียงวี๊ด",
+      "แน่นจมูก",
+      "จมูกตัน",
+      "ไอกลางคืน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "runny nose",
+      "cough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 10,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 57,
+    "symptoms": [
+      "ปวดไหล่",
+      "ปวดข้อ",
+      "ปวดบ่าปวดหัวไหล่",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "หายใจหอบเหนื่อยเหนื่อย",
+      "หายใจหอบเหนื่อย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "ไอเสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "แผล",
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "บวม"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 70,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "ไอเสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ตาแดง",
+      "ตาบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ขี้ตา",
+      "ตาบวม",
+      "ขี้ตาเยอะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "symptoms": [
+      "cough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 3,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "fatigue associated with exertion",
+      "sneezing",
+      "fever",
+      "eye pain",
+      "sore throatstuffy nose",
+      "runny nose",
+      "exertion fatique"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 65,
+    "symptoms": [
+      "dry throat",
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "fever",
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ปัสสาวะกะปริบกะปรอย",
+      "ปัสสาวะเป็นเลือด",
+      "เจ็บเวลาปัสสาวะ",
+      "ปัสสาวะไม่สุด",
+      "ปัสสาวะบ่อย",
+      "ปัสสาวะขุ่น",
+      "ตกขาวผิดปกติ",
+      "ปัสสาวะเล็ดราด",
+      "ประจำเดือนมากกว่าปกติ",
+      "ปัสสาวะเป็นเลือดปัสสาวะแสบขัด",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ปวดหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "คัดจมูก",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 18,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดแขน",
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ",
+      "ปวดข้อศอก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "กลืนเจ็บ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 83,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "ไอเสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ไอ",
+      "เสมหะไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "ไอ",
+      "ไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เคืองตา",
+      "เคืองตาตาแดง",
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 67,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหลเสมหะ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ปวดหัวไหล่",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "ปวดกระดูก",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "บ้านหมุน",
+      "เดินเซ ทรงตัวไม่ได้",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ปวดกระดูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "แขนบวม",
+      "บวมตามร่างกาย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "เวียนศีรษะ",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "เจ็บคอ",
+      "ตัวร้อน",
+      "เป็นไข้",
+      "ไข้คอแดง",
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ปวดคอ",
+      "ปวดบ่า",
+      "ปวดไหล่",
+      "ปวดข้อ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 7,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "คอแห้งคอแดง",
+      "เสมหะ",
+      "ปวดตา",
+      "กลืนเจ็บ",
+      "หายใจหอบเหนื่อย",
+      "ร้อนวูบวาบ",
+      "ไอกลางคืน",
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "fever",
+      "headache"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "คอแดง",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ปวดซี่โครง",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "ปวดกระดูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 1,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "ชา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "เรอเปรี้ยว"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดข้อศอก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "cough",
+      "headache",
+      "difficulty swallowingsore throat",
+      "sneezing",
+      "slurred speech",
+      "phlegm",
+      "difficulty speaking",
+      "stuffy ears",
+      "hoarseness",
+      "sore throat",
+      "pain on swallowing"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "ก้อนที่ศีรษะ",
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ก้อนที่รักแร้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดบ่า",
+      "ปวดไหล่",
+      "ปวดข้อ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะคัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "เจ็บคอ",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 69,
+    "symptoms": [
+      "การได้ยินลดลง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 66,
+    "symptoms": [
+      "แขนอ่อนแรง",
+      "มืออ่อนแรง",
+      "แขนขาอ่อนแรง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "เป็นไข้",
+      "ร้อนวูบวาบ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ",
+      "ปวดไหล่",
+      "ปวดข้อ",
+      "ปวดต้นคอปวดบ่า",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 65,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "กลืนเจ็บ",
+      "เรอเปรี้ยว",
+      "จุกแสบลำคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 62,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "ตาแดง",
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "น้ำมูกไหลเสมหะ",
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดสีข้าง",
+      "ปวดเอว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ปวดท้องน้อย",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "กลืนติด กลืนลำบาก",
+      "กลืนลำบาก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เป็นไข้",
+      "เจ็บคอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "ปวดคอ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหลเสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "เป็นไข้",
+      "ท้องเสีย",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดหัว",
+      "เดินเซ ทรงตัวไม่ได้",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "น้ำตาไหล",
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "เวียนศีรษะน้ำมูกไหล",
+      "น้ำมูกไหล",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดข้อศอก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "ตาบวม",
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง",
+      "ท้องอืด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ก้อนบริเวณใบหน้า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 57,
+    "symptoms": [
+      "คัน",
+      "ผื่น",
+      "ผิวแห้งผื่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 14,
+    "symptoms": [
+      "ก้อนที่ขา",
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 64,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "หูอื้อ",
+      "ปวดหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "เหนื่อย",
+      "เจ็บหน้าอก",
+      "หายใจหอบเหนื่อย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "มึนศีรษะ",
+      "เดินเซ ทรงตัวไม่ได้",
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ปวดเท้า",
+      "ปวดข้อ",
+      "ปวดข้อนิ้วเท้า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "เสียงดังในหู",
+      "เสียงดังรบกวนในหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "ปัสสาวะเป็นเลือด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ปัสสาวะบ่อย ถี่",
+      "ปัสสาวะบ่อย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "dry skin",
+      "itch"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "ไอ",
+      "เสมหะเจ็บคอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 16,
+    "symptoms": [
+      "กลืนเจ็บ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "กระแทก",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "เจ็บคอ",
+      "คันคอ",
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 15,
+    "symptoms": [
+      "ปวดขา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ก้อนบริเวณใบหน้า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "ก้อนที่รักแร้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 77,
+    "symptoms": [
+      "blood in urine",
+      "bloody urine"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 74,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ปวดหัวไหล่",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "symptoms": [
+      "เป็นไข้",
+      "เสมหะ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "เป็นไข้",
+      "อาเจียน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ตาลายหน้ามืด",
+      "หน้ามืด",
+      "ปวดหัว",
+      "เดินเซ ทรงตัวไม่ได้",
+      "เวียนศีรษะ บ้านหมุน",
+      "เวียนศีรษะ",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "stuffy nose",
+      "breathless on lying",
+      "shortness of breath when lying down"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "หายใจไม่สะดวก",
+      "จมูกตัน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "เจ็บเวลาปัสสาวะ",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 62,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "เรอเปรี้ยว",
+      "จุกแน่นท้องปวดท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ปวดท้อง",
+      "แสบท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 58,
+    "symptoms": [
+      "น้ำมูกไหลเสมหะ",
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "น้ำมูกไหล",
+      "คัดจมูก",
+      "คัดจมูกไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดข้อมือ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "คัดจมูกเสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ท้องผูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "symptoms": [
+      "เป็นไข้",
+      "ปวดหัว",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "ตาแดง",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 70,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดแขน",
+      "บวมตามร่างกาย",
+      "บวม"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "weight lossstomachache",
+      "loss of appetite",
+      "weight loss"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ตาบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "เจ็บคอน้ำมูกไหล",
+      "เจ็บคอ",
+      "น้ำมูกไหล",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 71,
+    "symptoms": [
+      "ปัสสาวะกะปริบกะปรอย",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "น้ำมูกไหล",
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "ปวดเท้า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "ปวดซี่โครง",
+      "ปวดสีข้าง",
+      "ปวดเอว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 68,
+    "symptoms": [
+      "ปัสสาวะเป็นเลือด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "phlegm",
+      "fever",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "คอแดง",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 74,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "symptoms": [
+      "ผื่น",
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "กลืนติด กลืนลำบาก",
+      "กลืนลำบาก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 20,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อ",
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 62,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "headache"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "แน่นจมูก",
+      "ไอ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 50,
+    "symptoms": [
+      "คอแดง",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "หายใจไม่สะดวก",
+      "เจ็บหน้าอก",
+      "หายใจหอบเหนื่อย",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ปวดคอ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "เสียงแหบ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ปวดหู",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "คลื่นไส้",
+      "ท้องอืด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ผื่น",
+      "ผิวแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 70,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 66,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "symptoms": [
+      "มองเห็นภาพซ้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ปวดท้อง",
+      "คลื่นไส้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "ปวดหู",
+      "เสียงดังในหู",
+      "เสียงดังรบกวนในหู"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 54,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 70,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 17,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะจมูกตัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 76,
+    "symptoms": [
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 70,
+    "symptoms": [
+      "ตาพร่ามัว",
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "symptoms": [
+      "บาดเจ็บ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "เจ็บคอ",
+      "น้ำมูกไหล",
+      "เจ็บคอผื่น",
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "แสบตา",
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ไอเจ็บคอ",
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "ปวดเมื่อยกล้ามเนื้อทั่วๆ",
+      "ปวดคอปวดหัวไหล่",
+      "ปวดเมื่อยกล้ามเนื้อ",
+      "ปวดต้นคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "จามบ่อย",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 53,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ปวดหู"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 15,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "น้ำมูกไหล",
+      "น้ำมูกไหลไอ",
+      "จามบ่อย",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "น้ำมูกไหลคัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 18,
+    "symptoms": [
+      "ง่วงตลอดเวลา",
+      "ง่วงเยอะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ปวดขมับ",
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "ปวดหัวไหล่",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "คลื่นไส้",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ความเครียด",
+      "เครียด",
+      "นอนไม่หลับ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "วิตกกังวล",
+      "ไร้ค่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ทำร้ายตัวเอง",
+      "เก็บตัวอยากตาย",
+      "คิดอยากฆ่าตัวตาย ทำร้ายตนเอง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "วิตกกังวล",
+      "ไร้ค่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ปวดเท้า",
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดข้อนิ้วเท้า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 22,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "joint pain",
+      "history of trauma"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 65,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "stuffy nose",
+      "cough"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "foot pain",
+      "history of trauma"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "มือสั่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "stomachache",
+      "abdominal pain"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 13,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 51,
+    "symptoms": [
+      "อุจจาระลำเล็กลง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ก้อนที่หลังหู",
+      "ก้อนบริเวณหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "ก้อนที่ผิวหนัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ปวดมือ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ก้อนบริเวณขาหนีบ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "คันคอเสมหะไหลลงคอ",
+      "ไอ",
+      "เจ็บคอ",
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "diarrhea"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "symptoms": [
+      "อาเจียน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 83,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "dizzy",
+      "eye irritation",
+      "history of hypertension (high blood pressure)",
+      "unsteady, loss of balance"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "symptoms": [
+      "ท้องอืด",
+      "ท้องอืดปวดท้อง",
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ไอ",
+      "เป็นไข้",
+      "น้ำมูกไหลไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดท้อง",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 70,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "ไอน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ไอ",
+      "ไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "น้ำมูกไหลไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "stomachache",
+      "nausea",
+      "abdominal pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "รถล้ม",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "คันคอเสมหะ",
+      "ไอ",
+      "เสมหะ",
+      "เจ็บคอ",
+      "กลืนเจ็บ",
+      "เสมหะไหลลงคอ",
+      "ไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 47,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 27,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ชา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "เจ็บเวลาปัสสาวะปัสสาวะเป็นเลือด",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 56,
+    "symptoms": [
+      "ปวดเท้า",
+      "ปวดข้อ",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 63,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "ไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก",
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ตาแดง",
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "neck pain",
+      "back pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "น้ำมูกไหล",
+      "คัดจมูกเสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 37,
+    "symptoms": [
+      "หายใจไม่สะดวก",
+      "เสมหะ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "ไอ",
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 84,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ",
+      "เสมหะไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ปวดท้องน้อย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "ไอคัดจมูก",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "เรอเปรี้ยว",
+      "กลืนติด กลืนลำบาก",
+      "จุกแสบลำคอ",
+      "กลืนลำบาก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 24,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 10,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 73,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "symptoms": [
+      "ปวดท้อง",
+      "แสบท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 15,
+    "symptoms": [
+      "ankle pain",
+      "joint pain",
+      "history of trauma"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ชา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 21,
+    "symptoms": [
+      "ปวดข้อนิ้วมือ",
+      "ปวดข้อ",
+      "ปวดมือ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "ไอเป็นเลือด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "symptoms": [
+      "แน่นจมูกเลือดกำเดาไหล",
+      "หายใจไม่ออก",
+      "เลือดกำเดาไหล",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "ปวดกระบอกตา",
+      "ปวดหัว",
+      "ปวดหัวปวดท้ายทอย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 32,
+    "symptoms": [
+      "ปวดเท้า",
+      "ปวดข้อ",
+      "ปวดข้อนิ้วเท้า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 5,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "หายใจไม่สะดวกจมูกตัน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ปวดหู",
+      "เสียงดังในหู",
+      "เสียงดังรบกวนในหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 30,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก",
+      "คันจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 41,
+    "symptoms": [
+      "ปวดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ปวดกราม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 1,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 59,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 44,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "ไอน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 58,
+    "symptoms": [
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 48,
+    "symptoms": [
+      "เป็นไข้",
+      "ปวดหัว",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ไอ",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 49,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 49,
+    "symptoms": [
+      "เจ็บคอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 15,
+    "symptoms": [
+      "ปวดหู"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 60,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 36,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 40,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "ear discharge/drainage",
+      "hearing lossear discharge",
+      "ear pain"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "genitals itching"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 54,
+    "symptoms": [
+      "narrow stool",
+      "decreased stool caliber"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "symptoms": [
+      "บวมตามร่างกาย",
+      "บวม"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 48,
+    "symptoms": [
+      "ประวัติไขมันสูง",
+      "เจ็บหน้าอก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 53,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 12,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 67,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "ปวดข้อ",
+      "ขาบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "การได้ยินลดลง",
+      "หูดับ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 52,
+    "symptoms": [
+      "ไอ",
+      "หายใจไม่สะดวก",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลจามบ่อย",
+      "จามบ่อย",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 23,
+    "symptoms": [
+      "ปวดหัว"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 70,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "ไอ",
+      "เสมหะไอ",
+      "ปวดหัว",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ผื่น"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "เป็นไข้",
+      "ไอ",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 43,
+    "symptoms": [
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ปวดแขน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "คลื่นไส้",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "เจ็บคอ",
+      "คันคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 42,
+    "symptoms": [
+      "ไอ",
+      "ไอกลางคืน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "ไอน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 58,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "ปวดบริเวณใบหน้า",
+      "ปวดหัว",
+      "ปวดกระบอกตาปวดหัว",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 69,
+    "symptoms": [
+      "กลืนติด กลืนลำบาก",
+      "กลืนติด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "อาเจียน",
+      "ท้องเสีย",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "skin rash"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 60,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "แน่นจมูก",
+      "คัดจมูก",
+      "เลือดกำเดาไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 17,
+    "symptoms": [
+      "ประวัติอุบัติเหตุ",
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "ปวดตา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 27,
+    "symptoms": [
+      "ถ่ายเป็นเลือด",
+      "ท้องอืด",
+      "ถ่ายปนเลือด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 28,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 42,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 64,
+    "symptoms": [
+      "ปัสสาวะบ่อย ถี่",
+      "ปัสสาวะบ่อย",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 47,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "เสมหะน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "อาเจียน",
+      "ปวดท้อง",
+      "อาเจียนคลื่นไส้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 29,
+    "symptoms": [
+      "การได้ยินลดลง",
+      "หูดับ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 26,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 20,
+    "symptoms": [
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 19,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "itchy nose",
+      "itchy nosesneezing",
+      "stuffy nose"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "ปวดข้อ",
+      "ปวดเข่า"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "จ้ำเลือด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ประจำเดือนมาน้อย, ประจำเดือนขาด",
+      "คลื่นไส้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 35,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 14,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "จมูกตัน",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "จุดเลือดออก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 43,
+    "symptoms": [
+      "cough",
+      "fever"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 33,
+    "symptoms": [
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 23,
+    "symptoms": [
+      "เคืองตา"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "เสมหะ",
+      "น้ำมูกไหล",
+      "น้ำมูกไหลคัดจมูก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 61,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "ไอกลางคืนเสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 56,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 52,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 13,
+    "symptoms": [
+      "blurry vision"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "sore throat"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 21,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 58,
+    "symptoms": [
+      "ปัสสาวะบ่อย ถี่",
+      "ปัสสาวะบ่อย",
+      "ปัสสาวะแสบขัด"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 25,
+    "symptoms": [
+      "น้ำมูกไหลจามบ่อย",
+      "คันจมูก",
+      "จามบ่อย",
+      "คัดจมูก"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ปวดบ่า",
+      "ปวดไหล่",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "ไอ",
+      "เจ็บคอ",
+      "เจ็บคอไอ",
+      "กลืนลำบาก"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 39,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "ตัวร้อน",
+      "ร้อนวูบวาบไข้",
+      "เป็นไข้",
+      "ร้อนวูบวาบ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 37,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 51,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 59,
+    "symptoms": [
+      "ไอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 41,
+    "symptoms": [
+      "เสียงดังในหู",
+      "เสียงดังรบกวนในหู"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "ตาบวม"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ไอ",
+      "คอแห้ง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 34,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 55,
+    "symptoms": [
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 32,
+    "symptoms": [
+      "ตาแดง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 68,
+    "symptoms": [
+      "หูอื้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 46,
+    "symptoms": [
+      "หูอื้อ",
+      "ปวดหู"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 26,
+    "symptoms": [
+      "เป็นไข้",
+      "ตัวร้อน",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "ถ่ายเหลว",
+      "ท้องเสีย"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 45,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 29,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 38,
+    "symptoms": [
+      "เสมหะ",
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 77,
+    "symptoms": [
+      "ผื่น",
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดขา"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 39,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 30,
+    "symptoms": [
+      "ไอ",
+      "น้ำมูกไหล",
+      "จามบ่อย",
+      "ไอน้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 72,
+    "symptoms": [
+      "ประวัติความดันสูง",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 64,
+    "symptoms": [
+      "คัน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 36,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ",
+      "เสมหะไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 34,
+    "symptoms": [
+      "ไอ",
+      "เสมหะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 40,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 1,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "เป็นไข้",
+      "ร้อนวูบวาบ",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 31,
+    "symptoms": [
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "ปวดซี่โครง",
+      "ปวดหลัง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "กระแทก",
+      "ประวัติอุบัติเหตุ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "dizzyblack out",
+      "lightheaded",
+      "swaying",
+      "fainted",
+      "unsteady, loss of balance"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "dizzy",
+      "lightheadness",
+      "lightheaded"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "unsteady, loss of balance",
+      "วูบ หมดสติชั่วขณะเดินเซ",
+      "fainted",
+      "มึนศีรษะ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "วูบ",
+      "มึนศีรษะวูบ หมดสติชั่วขณะ",
+      "บ้านหมุน",
+      "เวียนศีรษะ บ้านหมุน"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 28,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "หน้ามืด",
+      "วูบ",
+      "เดินเซ",
+      "วูบ หมดสติชั่วขณะ",
+      "มึนศีรษะหน้ามืด"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "วิตกกังวล",
+      "คิดวนซ้ำๆ",
+      "คิดฆ่าตัวตาย",
+      "คิดอยากฆ่าตัวตาย ทำร้ายตนเอง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "เป็นไข้",
+      "ร้อนวูบวาบ",
+      "ตัวร้อน"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 24,
+    "symptoms": [
+      "วิตกกังวล",
+      "คิดวนซ้ำๆ",
+      "คิดฆ่าตัวตาย",
+      "คิดอยากฆ่าตัวตาย ทำร้ายตนเอง"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 35,
+    "symptoms": [
+      "ปวดข้อเท้า",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 25,
+    "symptoms": [
+      "fever"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 44,
+    "symptoms": [
+      "จุกแน่นท้อง",
+      "ปวดท้อง"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 46,
+    "symptoms": [
+      "เสมหะ",
+      "เสมหะไอ",
+      "น้ำมูกไหล"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 38,
+    "symptoms": [
+      "ปวดขา",
+      "ประวัติอุบัติเหตุ",
+      "บวมตามร่างกาย",
+      "บวม",
+      "ปวดข้อ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 33,
+    "symptoms": [
+      "เจ็บคอ"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 45,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "female",
+    "age": 73,
+    "symptoms": [
+      "เป็นไข้",
+      "ไข้"
+    ]
+  },
+  {
+    "gender": "male",
+    "age": 31,
+    "symptoms": [
+      "ผื่น"
+    ]
+  }
+]
